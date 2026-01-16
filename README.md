@@ -1,14 +1,14 @@
-# 🩺 Aarya – Your AI Mental Health Assistant
+# 🩺 Dinesh – Your AI Mental Health chatbot
 
-## 🧠 Aarya – AI Mental Health Assistant
+## 🧠 Dinesh – AI Mental Health Assistant
 
-Aarya is an **AI-powered mental health assistant** designed to provide empathetic conversation, emotional awareness, and basic mental health guidance using **Natural Language Processing (NLP)** and **Machine Learning**. The application is built with **Python** and deployed using **Streamlit**, offering a clean, human-like interface similar to a digital nurse or mental health companion.
+**AI-powered mental health assistant** designed to provide empathetic conversation, emotional awareness, and basic mental health guidance using **Natural Language Processing (NLP)** and **Machine Learning**. The application is built with **Python** and deployed using **Streamlit**, offering a clean, human-like interface similar to a digital nurse or mental health companion.
 
 ---
 
 ## 🌱 Overview
 
-**Aarya** is an **AI-powered mental health assistant** designed to provide **calm, empathetic, and emotionally aware conversations**.  
+**AI-powered mental health assistant** designed to provide **calm, empathetic, and emotionally aware conversations**.  
 It acts like a **digital mental-health nurse**, helping users reflect on emotions while promoting safety, awareness, and ethical AI use.
 
 Built using **Python, NLP, and Machine Learning**, and deployed with **Streamlit**, Aarya focuses on **empathy-first design** rather than medical diagnosis.
@@ -142,10 +142,8 @@ These are intentionally locked to keep the current system stable, ethical, and e
 ---
 ## 📄 Project Report
 
-📘 Full project report (PDF):  
+
  
-👉 [Download Project Report]
-**[Aarya_AI_Mental_Health_Assistant_Full_Project_Report.pdf](https://github.com/ASHISH8652/Aarya-AI-Mental-Health-Assistant/blob/main/Aarya_AI_Mental_Health_Assistant_Full_Project_Report.pdf)**
 
 
 ## 👨‍💻 Author
