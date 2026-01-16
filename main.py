@@ -209,8 +209,8 @@ if "full_timestamp_log" not in st.session_state:
 if not st.session_state.intro_seen:
     st.markdown("""
     <div style="text-align:center; padding:50px;">
-        <h1>🩺 Hello, I’m Aarya</h1>
-        <p style="font-size:18px;">
+        <h1>🩺 Hello, I’m Dinesh</h1>
+        <p style="font-size:20px;">
         I’m here to listen — calmly, safely, and without judgment.
         </p>
         <hr style="opacity:0.3;">
@@ -234,7 +234,7 @@ st.sidebar.title("🧠 Dinesh Control Panel")
 
 st.session_state.language = st.sidebar.selectbox(
     "🌐 Language",
-    ["English", "Hindi (Coming Soon)"]
+    ["English", ]
 )
 
 st.sidebar.markdown("---")
