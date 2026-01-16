@@ -42,7 +42,6 @@ Aarya-AI-Mental-Health-Assistant/
 ├── tfidf_vectorizer.pkl   # TF-IDF vectorizer
 ├── emotion_chatbot.ipynb  # Development notebook
 ├── README.md              # Documentation
-├── Aarya_Project_Report.pdf   ✅ (upload this)
 ├── LICENSE                # MIT License
 └── .gitignore             # Ignored files
 ```
@@ -77,8 +76,8 @@ Aarya-AI-Mental-Health-Assistant/
 ### 1️⃣ Clone the Repository
 
 ```bash
-git clone https://github.com/ASHISH8652/Aarya-AI-Mental-Health-Assistant.git
-cd Aarya-AI-Mental-Health-Assistant
+git clone https://github.com/Recharla992/Dinesh-AI-Mental-health-chatbot.git
+cd Dinesh-AI-Mental-Health-Assistant
 ```
 ### 2️⃣ Install Dependencies
 ```bash
@@ -102,7 +101,7 @@ This project is optimized for deployment on **Streamlit Cloud**.
 This project is deployed on Streamlit Cloud.
 
 ### 🔗 Live App:
-[https://aarya-ai-mental-health-assistant.streamlit.app/](https://aarya-ai-mental-health-assistant-f7s9peoazxhnenakfr7lks.streamlit.app/
+[https://Dinesh-ai-mental-health-assistant.streamlit.app/](https://aarya-ai-mental-health-assistant-f7s9peoazxhnenakfr7lks.streamlit.app/
 )
 
 ### Deployment Steps:
