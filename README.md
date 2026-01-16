@@ -34,9 +34,9 @@ Built using **Python, NLP, and Machine Learning**, and deployed with **Streamlit
 ## 🏗️ System Architecture
 ## 🏗️ Project Architecture
 ```
-Aarya-AI-Mental-Health-Assistant/
+Dinesh-AI-Mental-Health-Assistant/
 │
-├── app.py                 # Main Streamlit application
+├── main.py                 # Main Streamlit application
 ├── requirements.txt       # Python dependencies
 ├── sentiment_model.pkl    # Trained ML sentiment model
 ├── tfidf_vectorizer.pkl   # TF-IDF vectorizer
@@ -66,7 +66,7 @@ Aarya-AI-Mental-Health-Assistant/
 3. Sentiment is predicted with confidence score
 4. Emotion classifier detects multiple emotions
 5. Emergency keywords are checked for safety
-6. Aarya responds with empathetic guidance
+6. Dinesh responds with empathetic guidance
 7. Mood data is stored for analytics & download
 
 ---
@@ -87,14 +87,7 @@ pip install -r requirements.txt
 ### 3️⃣ Run the Application
 ```bash
 Copy code
-streamlit run app.py
-```
-
-#### App opens at:
-```
-arduino
-Copy code
-http://localhost:8501
+streamlit run main.py
 ```
 ## 🌐 Deployment
 This project is optimized for deployment on **Streamlit Cloud**.
