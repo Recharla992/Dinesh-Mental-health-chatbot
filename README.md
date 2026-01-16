@@ -147,9 +147,9 @@ These are intentionally locked to keep the current system stable, ethical, and e
 
 ## 👨‍💻 Author
 
-**Ashish Kumar Prusty**
-B.Tech Student | AI & ML Enthusiast
-GitHub: [https://github.com/ASHISH8652](https://github.com/ASHISH8652)
+**Recharla Dinesh**
+Integrated Mtech Student | AI & ML Enthusiast
+GitHub: [https://github.com/Recharla992](https://github.com/Recharla992)
 
 ---
 
