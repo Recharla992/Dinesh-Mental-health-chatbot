@@ -89,10 +89,10 @@ html, body, [class*="css"] { animation: none !important; }
 }
 
 .chat-bubble {
-    padding: 16px 20px;
-    border-radius: 18px;
-    margin: 14px 0;
-    max-width: 78%;
+    padding: 20px 25px;
+    border-radius: 20px;
+    margin: 15px 0;
+    max-width: 80%;
     line-height: 1.6;
     animation: fadeIn 0.6s ease-in-out;
 }
@@ -210,7 +210,7 @@ if not st.session_state.intro_seen:
     st.markdown("""
     <div style="text-align:center; padding:50px;">
         <h1>🩺 Hello, I’m Dinesh</h1>
-        <p style="font-size:20px;">
+        <p style="font-size:25px;">
         I’m here to listen — calmly, safely, and without judgment.
         </p>
         <hr style="opacity:0.3;">
