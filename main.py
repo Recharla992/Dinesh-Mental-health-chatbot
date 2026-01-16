@@ -70,7 +70,7 @@ def generate_pdf_report(chat_history, mood_df, insight_text):
 # 1️⃣ PAGE CONFIG (MUST BE FIRST)
 # =========================================================
 st.set_page_config(
-    page_title="Aarya – AI Mental Health Assistant",
+    page_title="Dinesh – AI Mental Health chatbot",
     page_icon="🩺",
     layout="centered",
     initial_sidebar_state="expanded"
@@ -230,7 +230,7 @@ if not st.session_state.intro_seen:
 # =========================================================
 # 5️⃣ SIDEBAR CONTROLS
 # =========================================================
-st.sidebar.title("🧠 Aarya Control Panel")
+st.sidebar.title("🧠 Dinesh Control Panel")
 
 st.session_state.language = st.sidebar.selectbox(
     "🌐 Language",
@@ -388,7 +388,7 @@ def generate_emotional_insight(timeline):
 # =========================================================
 # 8️⃣ APP HEADER
 # =========================================================
-st.markdown("## 🧠 Aarya – Your AI Mental Health Assistant")
+st.markdown("## 🧠 Dinesh – Your AI Mental Health Assistant")
 st.markdown("*A calm, safe space to talk.*")
 
 # =========================================================
@@ -528,7 +528,7 @@ for role, text in st.session_state.chat_history:
         )
     else:
         st.markdown(
-        f"<div class='chat-bubble assistant-bubble'>🩺 <b>Aarya</b><br>{text}</div>",
+        f"<div class='chat-bubble assistant-bubble'>🩺 <b>Dinesh</b><br>{text}</div>",
         unsafe_allow_html=True
     )
 
